@@ -1,7 +1,7 @@
 import socket
 from threading import Thread
 
-# The IP address and PORT of the remote server
+# The IP address and PORT of the server
 SERVER_IP = "127.0.0.1"
 SERVER_PORT = 9876
 
